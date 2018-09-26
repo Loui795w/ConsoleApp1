@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello git1 ændret på pc2");
-            Console.WriteLine("Ny ændring");
+            Console.WriteLine("Ny ændring på pc1");
             Console.ReadLine();
         }
     }
